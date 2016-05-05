@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OBJECT>
+  <NODES>
+    <NODE ID="0" Mass="100.000" X="0.000" Y="0.000" Z="0.000" Type="S"/>
+    <NODE ID="1" Mass="100.000" X="1.000" Y="0.000" Z="0.000" Type="S"/>
+    <NODE ID="2" Mass="100.000" X="0.500" Y="0.866" Z="0.000" Type="S"/>
+    <NODE ID="3" Mass="100.000" X="0.500" Y="0.000" Z="1.500" Type="F"/>
+    <NODE ID="4" Mass="100.000" X="1.000" Y="0.866" Z="1.500" Type="F"/>
+    <NODE ID="5" Mass="100.000" X="0.000" Y="0.866" Z="1.500" Type="F"/>
+  </NODES>
+  <CONNECTIONS>
+    <CONNECTION ID="6" NodeId1="0" NodeId2="1" SpringConstant="100.000" DampingConstant="50.0"/>
+    <CONNECTION ID="7" NodeId1="1" NodeId2="2" SpringConstant="100.000" DampingConstant="50.0"/>
+    <CONNECTION ID="8" NodeId1="2" NodeId2="0" SpringConstant="100.000" DampingConstant="50.0"/>
+    <CONNECTION ID="9" NodeId1="3" NodeId2="4" SpringConstant="100.000" DampingConstant="50.0"/>
+    <CONNECTION ID="10" NodeId1="4" NodeId2="5" SpringConstant="100.000" DampingConstant="50.0"/>
+    <CONNECTION ID="11" NodeId1="5" NodeId2="3" SpringConstant="100.000" DampingConstant="50.0"/>
+  </CONNECTIONS>
+  <ACTUATORS>
+    <ACTUATOR ID="12" InputID="18" NodeId1="0" NodeId2="3" BoreArea="0.0102" RodArea="0.0051" MaxStroke="1.000" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.0"/>
+    <ACTUATOR ID="13" InputID="19" NodeId1="0" NodeId2="5" BoreArea="0.0102" RodArea="0.0051" MaxStroke="1.000" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.0"/>
+    <ACTUATOR ID="14" InputID="20" NodeId1="1" NodeId2="3" BoreArea="0.0102" RodArea="0.0051" MaxStroke="1.000" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.0"/>
+    <ACTUATOR ID="15" InputID="18" NodeId1="1" NodeId2="4" BoreArea="0.0102" RodArea="0.0051" MaxStroke="1.000" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.0"/>
+    <ACTUATOR ID="16" InputID="19" NodeId1="2" NodeId2="4" BoreArea="0.0102" RodArea="0.0051" MaxStroke="1.000" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.0"/>
+    <ACTUATOR ID="17" InputID="20" NodeId1="2" NodeId2="5" BoreArea="0.0102" RodArea="0.0051" MaxStroke="1.000" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.0"/>
+  </ACTUATORS>
+  <SIGNALGENERATORS>
+    <SIGNALGENERATOR ID="18" Amplitude="5.000" Frequency="0.5" PhaseShift="0.000" Offset="0.000" X="0.000" Y="1.000" Z="0.000"/>
+    <SIGNALGENERATOR ID="19" Amplitude="2.000" Frequency="1.5" PhaseShift="0.000" Offset="0.000" X="0.000" Y="1.000" Z="0.000"/>
+    <SIGNALGENERATOR ID="20" Amplitude="10.000" Frequency="1.0" PhaseShift="0.000" Offset="0.000" X="0.000" Y="1.000" Z="0.000"/>
+  </SIGNALGENERATORS>
+  <CONTROLLOOPS>
+    <CONTROLLOOP ID="100" CommandID="8" FeedbackID="1" ProportionalGain="1.0" IntegralGain="0" DampingGain="1.000" DerivativeGain="0.000" ServovalveLoopGain="1.000" ServovalveOffset="0.000" ServovalveMaxCurrent="40.000"/>
+  </CONTROLLOOPS>
+</OBJECT>

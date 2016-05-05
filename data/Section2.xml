@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OBJECT>
+  <NODES>
+    <NODE ID="0" Mass="100.000" X="0.000" Y="0.000" Z="0.000" Type="F"/>
+    <NODE ID="1" Mass="100.000" X="0.522" Y="0.000" Z="0.233" Type="F"/>
+    <NODE ID="2" Mass="100.000" X="1.028" Y="0.000" Z="0.273" Type="F"/>
+    <NODE ID="3" Mass="100.000" X="1.529" Y="0.000" Z="0.262" Type="F"/>
+    <NODE ID="4" Mass="100.000" X="2.026" Y="0.000" Z="0.214" Type="F"/>
+    <NODE ID="5" Mass="100.000" X="2.522" Y="0.000" Z="0.142" Type="F"/>
+    <NODE ID="6" Mass="100.000" X="3.016" Y="0.000" Z="0.054" Type="F"/>
+    <NODE ID="7" Mass="100.000" X="3.509" Y="0.000" Z="-0.049" Type="F"/>
+    <NODE ID="8" Mass="100.000" X="4.001" Y="0.000" Z="-0.165" Type="F"/>
+    <NODE ID="9" Mass="100.000" X="4.491" Y="0.000" Z="-0.294" Type="S"/>
+    <NODE ID="10" Mass="100.000" X="4.981" Y="0.000" Z="-0.436" Type="S"/>
+    <NODE ID="11" Mass="100.000" X="4.480" Y="0.000" Z="-0.430" Type="S"/>
+    <NODE ID="12" Mass="100.000" X="3.978" Y="0.000" Z="-0.421" Type="F"/>
+    <NODE ID="13" Mass="100.000" X="3.477" Y="0.000" Z="-0.411" Type="F"/>
+    <NODE ID="14" Mass="100.000" X="2.977" Y="0.000" Z="-0.399" Type="F"/>
+    <NODE ID="15" Mass="100.000" X="2.476" Y="0.000" Z="-0.384" Type="F"/>
+    <NODE ID="16" Mass="100.000" X="1.976" Y="0.000" Z="-0.364" Type="F"/>
+    <NODE ID="17" Mass="100.000" X="1.476" Y="0.000" Z="-0.336" Type="F"/>
+    <NODE ID="18" Mass="100.000" X="0.978" Y="0.000" Z="-0.298" Type="F"/>
+    <NODE ID="19" Mass="100.000" X="0.482" Y="0.000" Z="-0.233" Type="F"/>
+  </NODES>
+  <CONNECTIONS>
+    <CONNECTION ID="20" NodeId1="19" NodeId2="0" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="21" NodeId1="0" NodeId2="1" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="22" NodeId1="1" NodeId2="2" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="23" NodeId1="2" NodeId2="3" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="24" NodeId1="3" NodeId2="4" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="25" NodeId1="4" NodeId2="5" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="26" NodeId1="5" NodeId2="6" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="27" NodeId1="6" NodeId2="7" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="28" NodeId1="7" NodeId2="8" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="29" NodeId1="8" NodeId2="9" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="30" NodeId1="9" NodeId2="10" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="31" NodeId1="10" NodeId2="11" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="32" NodeId1="11" NodeId2="12" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="33" NodeId1="12" NodeId2="13" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="34" NodeId1="13" NodeId2="14" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="35" NodeId1="14" NodeId2="15" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="36" NodeId1="15" NodeId2="16" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="37" NodeId1="16" NodeId2="17" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="38" NodeId1="17" NodeId2="18" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="39" NodeId1="18" NodeId2="19" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="40" NodeId1="1" NodeId2="18" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="41" NodeId1="3" NodeId2="16" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="42" NodeId1="5" NodeId2="14" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="43" NodeId1="7" NodeId2="12" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="44" NodeId1="3" NodeId2="18" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="45" NodeId1="5" NodeId2="16" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="46" NodeId1="7" NodeId2="14" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="47" NodeId1="9" NodeId2="12" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="48" NodeId1="1" NodeId2="19" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="49" NodeId1="2" NodeId2="18" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="50" NodeId1="3" NodeId2="17" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="51" NodeId1="4" NodeId2="16" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="52" NodeId1="5" NodeId2="15" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="53" NodeId1="6" NodeId2="14" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="54" NodeId1="7" NodeId2="13" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="55" NodeId1="8" NodeId2="12" SpringConstant="5000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="56" NodeId1="9" NodeId2="11" SpringConstant="5000.000" DampingConstant="10.000"/>
+  </CONNECTIONS>
+  <NODES>
+    <NODE ID="900" Mass="100.000" X="0.000" Y="0.000" Z="-2.000" Type="S"/>
+  </NODES>
+  <CONTROLLOOPS>
+    <CONTROLLOOP ID="1000" CommandID="3000" FeedbackID="2000" ProportionalGain="1.000" IntegralGain="0.100" DampingGain="0.020" DerivativeGain="0.000" ServovalveLoopGain="1.000" ServovalveOffset="0.000" ServovalveMaxCurrent="40.000"/>
+  </CONTROLLOOPS>
+  <ACTUATORS>
+    <ACTUATOR ID="2000" InputID="3000" NodeId1="900" NodeId2="0" BoreArea="0.102" RodArea="0.051" MaxStroke="1.500" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.000"/>
+  </ACTUATORS>
+  <SIGNALGENERATORS>
+    <SIGNALGENERATOR ID="3000" Amplitude="40.000" Frequency="0.500" PhaseShift="0.000" Offset="0.000" X="0.000" Y="0.000" Z="1.000"/>
+  </SIGNALGENERATORS>
+</OBJECT>

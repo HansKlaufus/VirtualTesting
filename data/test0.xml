@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OBJECT>
+  <NODES>
+    <NODE ID="1" Mass="10.000" X="2.000" Y="0.000" Z="0.000" Type="P"/>
+    <NODE ID="2" Mass="10.000" X="0.000" Y="0.000" Z="0.000" Type="S"/>
+  </NODES>
+  <ACTUATORS>
+    <ACTUATOR ID="10" InputID="12" NodeId1="2" NodeId2="1" BoreArea="0.0102" RodArea="0.0051" MaxStroke="1.500" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.0"/>
+  </ACTUATORS>
+  <CONTROLLOOPS>
+    <CONTROLLOOP ID="11" CommandID="12" FeedbackID="10" ProportionalGain="2.0" IntegralGain="5.000" DampingGain="0.200" DerivativeGain="0.000" ServovalveLoopGain="1.000" ServovalveOffset="0.000" ServovalveMaxCurrent="40.000"/>
+  </CONTROLLOOPS>
+  <SIGNALGENERATORS>
+    <SIGNALGENERATOR ID="12" Amplitude="40.000" Frequency="0.000" PhaseShift="0.000" Offset="0.000" X="0.000" Y="1.000" Z="0.000"/>
+  </SIGNALGENERATORS>
+</OBJECT>

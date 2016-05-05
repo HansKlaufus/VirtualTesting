@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OBJECT>
+  <NODES>
+    <NODE ID="162" Mass="0.000" X="5.000" Y="0.000" Z="2.000"/>
+    <NODE ID="163" Mass="0.000" X="10.000" Y="0.000" Z="2.000"/>
+    <NODE ID="164" Mass="0.000" X="10.000" Y="0.000" Z="4.000"/>
+    <NODE ID="165" Mass="0.000" X="5.000" Y="0.000" Z="4.000"/>
+    <NODE ID="166" Mass="1.000" X="5.000" Y="5.000" Z="2.000"/>
+    <NODE ID="167" Mass="1.000" X="10.000" Y="5.000" Z="2.000"/>
+    <NODE ID="168" Mass="1.000" X="10.000" Y="5.000" Z="4.000"/>
+    <NODE ID="169" Mass="1.000" X="5.000" Y="5.000" Z="4.000"/>
+    <NODE ID="170" Mass="1.000" X="5.000" Y="10.000" Z="2.000"/>
+    <NODE ID="171" Mass="1.000" X="10.000" Y="10.000" Z="2.000"/>
+    <NODE ID="172" Mass="1.000" X="10.000" Y="10.000" Z="4.000"/>
+    <NODE ID="173" Mass="1.000" X="5.000" Y="10.000" Z="4.000"/>
+    <NODE ID="174" Mass="0.000" X="10.000" Y="10.000" Z="0.000"/>
+    <NODE ID="175" Mass="0.000" X="0.000" Y="10.000" Z="2.000"/>
+  </NODES>
+  <CONNECTIONS>
+    <CONNECTION ID="176" NodeId1="162" NodeId2="163" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="177" NodeId1="163" NodeId2="164" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="178" NodeId1="164" NodeId2="165" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="179" NodeId1="165" NodeId2="162" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="180" NodeId1="165" NodeId2="163" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="181" NodeId1="162" NodeId2="164" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="182" NodeId1="166" NodeId2="167" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="183" NodeId1="167" NodeId2="168" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="184" NodeId1="168" NodeId2="169" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="185" NodeId1="169" NodeId2="166" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="186" NodeId1="169" NodeId2="167" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="187" NodeId1="166" NodeId2="168" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="188" NodeId1="170" NodeId2="171" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="189" NodeId1="171" NodeId2="172" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="190" NodeId1="172" NodeId2="173" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="191" NodeId1="173" NodeId2="170" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="192" NodeId1="173" NodeId2="171" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="193" NodeId1="170" NodeId2="172" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="194" NodeId1="162" NodeId2="166" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="195" NodeId1="163" NodeId2="167" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="196" NodeId1="164" NodeId2="168" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="197" NodeId1="165" NodeId2="169" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="198" NodeId1="166" NodeId2="170" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="199" NodeId1="167" NodeId2="171" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="200" NodeId1="168" NodeId2="172" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="201" NodeId1="169" NodeId2="173" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="202" NodeId1="162" NodeId2="167" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="203" NodeId1="163" NodeId2="166" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="204" NodeId1="164" NodeId2="169" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="205" NodeId1="165" NodeId2="168" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="206" NodeId1="166" NodeId2="171" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="207" NodeId1="167" NodeId2="170" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="208" NodeId1="168" NodeId2="173" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="209" NodeId1="169" NodeId2="172" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="210" NodeId1="162" NodeId2="169" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="211" NodeId1="163" NodeId2="168" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="212" NodeId1="164" NodeId2="167" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="213" NodeId1="165" NodeId2="166" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="214" NodeId1="166" NodeId2="173" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="215" NodeId1="167" NodeId2="172" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="216" NodeId1="168" NodeId2="171" SpringConstant="10.000" DampingConstant="1.100"/>
+    <CONNECTION ID="217" NodeId1="169" NodeId2="170" SpringConstant="10.000" DampingConstant="1.100"/>
+  </CONNECTIONS>
+  <CONTROLLOOPS>
+    <CONTROLLOOP ID="218" CommandID="160" FeedbackID="220" ProportionalGain="1.000" IntegralGain="0.100" DampingGain="0.020" DerivativeGain="0.000" ServovalveLoopGain="1.000" ServovalveOffset="0.000" ServovalveMaxCurrent="40.000"/>
+    <CONTROLLOOP ID="219" CommandID="161" FeedbackID="221" ProportionalGain="1.000" IntegralGain="0.100" DampingGain="0.020" DerivativeGain="0.000" ServovalveLoopGain="1.000" ServovalveOffset="0.000" ServovalveMaxCurrent="40.000"/>
+  </CONTROLLOOPS>
+  <ACTUATORS>
+    <ACTUATOR ID="220" InputID="218" NodeId1="174" NodeId2="171" BoreArea="0.102" RodArea="0.051" MaxStroke="1.000" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.000"/>
+    <ACTUATOR ID="221" InputID="219" NodeId1="175" NodeId2="170" BoreArea="0.102" RodArea="0.051" MaxStroke="2.500" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.000"/>
+  </ACTUATORS>
+  <SIGNALGENERATORS>
+    <SIGNALGENERATOR ID="160" Amplitude="20.000" Frequency="0.250" PhaseShift="1.570" Offset="0.000" X="0.000" Y="0.000" Z="1.000"/>
+    <SIGNALGENERATOR ID="161" Amplitude="20.000" Frequency="0.250" PhaseShift="0.000" Offset="0.000" X="0.000" Y="1.000" Z="0.000"/>
+  </SIGNALGENERATORS>
+</OBJECT>

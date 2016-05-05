@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OBJECT>
+  <NODES>
+    <NODE ID="10" Mass="0.000" X="0.000" Y="0.000" Z="0.000"/>
+    <NODE ID="11" Mass="1.000" X="0.000" Y="0.000" Z="1.000"/>
+    <NODE ID="12" Mass="0.000" X="0.000" Y="0.000" Z="2.000"/>
+  </NODES>
+  <CONNECTIONS>
+    <CONNECTION ID="13" NodeId1="10" NodeId2="11" SpringConstant="1.000" DampingConstant="0.005"/>
+    <CONNECTION ID="14" NodeId1="11" NodeId2="12" SpringConstant="1.000" DampingConstant="0.005"/>
+  </CONNECTIONS>
+</OBJECT>

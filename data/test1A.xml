@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OBJECT>
+  <NODES>
+    <NODE ID="0" Mass="0.000" X="0.000" Y="0.000" Z="0.000" Type="S"/>
+    <NODE ID="1" Mass="10.000" X="1.000" Y="0.000" Z="0.000" Type="F"/>
+    <NODE ID="2" Mass="0.000" X="2.000" Y="0.000" Z="0.000" Type="S"/>
+    <NODE ID="3" Mass="0.000" X="1.000" Y="-1.500" Z="0.000" Type="S"/>
+  </NODES>
+  <CONNECTIONS>
+    <CONNECTION ID="4" NodeId1="0" NodeId2="1" SpringConstant="100.000" DampingConstant="50.0"/>
+    <CONNECTION ID="5" NodeId1="1" NodeId2="2" SpringConstant="100.000" DampingConstant="50.0"/>
+  </CONNECTIONS>
+  <CONTROLLOOPS>
+    <CONTROLLOOP ID="6" CommandID="8" FeedbackID="1" ProportionalGain="2.0" IntegralGain="2.0" DampingGain="0.000" DerivativeGain="0.000" ServovalveLoopGain="1.000" ServovalveOffset="0.000" ServovalveMaxCurrent="40.000"/>
+  </CONTROLLOOPS>
+  <ACTUATORS>
+    <ACTUATOR ID="7" InputID="6" NodeId1="3" NodeId2="1" BoreArea="0.0102" RodArea="0.0051" MaxStroke="1.000" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.0"/>
+  </ACTUATORS>
+  <SIGNALGENERATORS>
+    <SIGNALGENERATOR ID="8" Amplitude="0.000" Frequency="0" PhaseShift="0.000" Offset="10.000" X="0.000" Y="1.000" Z="0.000"/>
+  </SIGNALGENERATORS>
+</OBJECT>

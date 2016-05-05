@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OBJECT>
+  <NODES>
+    <NODE ID="0" Mass="100.000" X="0.000" Y="0.000" Z="0.000" Type="S"/>
+    <NODE ID="1" Mass="100.000" X="0.522" Y="0.000" Z="0.233" Type="S"/>
+    <NODE ID="2" Mass="100.000" X="1.028" Y="0.000" Z="0.273" Type="S"/>
+    <NODE ID="3" Mass="100.000" X="1.529" Y="0.000" Z="0.262" Type="S"/>
+    <NODE ID="4" Mass="100.000" X="2.026" Y="0.000" Z="0.214" Type="S"/>
+    <NODE ID="5" Mass="100.000" X="2.522" Y="0.000" Z="0.142" Type="S"/>
+    <NODE ID="6" Mass="100.000" X="3.016" Y="0.000" Z="0.054" Type="S"/>
+    <NODE ID="7" Mass="100.000" X="3.509" Y="0.000" Z="-0.049" Type="S"/>
+    <NODE ID="8" Mass="100.000" X="4.001" Y="0.000" Z="-0.165" Type="S"/>
+    <NODE ID="9" Mass="100.000" X="4.491" Y="0.000" Z="-0.294" Type="S"/>
+    <NODE ID="10" Mass="100.000" X="4.981" Y="0.000" Z="-0.436" Type="S"/>
+    <NODE ID="11" Mass="100.000" X="4.480" Y="0.000" Z="-0.430" Type="S"/>
+    <NODE ID="12" Mass="100.000" X="3.978" Y="0.000" Z="-0.421" Type="S"/>
+    <NODE ID="13" Mass="100.000" X="3.477" Y="0.000" Z="-0.411" Type="S"/>
+    <NODE ID="14" Mass="100.000" X="2.977" Y="0.000" Z="-0.399" Type="S"/>
+    <NODE ID="15" Mass="100.000" X="2.476" Y="0.000" Z="-0.384" Type="S"/>
+    <NODE ID="16" Mass="100.000" X="1.976" Y="0.000" Z="-0.364" Type="S"/>
+    <NODE ID="17" Mass="100.000" X="1.476" Y="0.000" Z="-0.336" Type="S"/>
+    <NODE ID="18" Mass="100.000" X="0.978" Y="0.000" Z="-0.298" Type="S"/>
+    <NODE ID="19" Mass="100.000" X="0.482" Y="0.000" Z="-0.233" Type="S"/>
+    <NODE ID="57" Mass="100.000" X="0.000" Y="15.000" Z="0.000" Type="F"/>
+    <NODE ID="58" Mass="100.000" X="0.256" Y="15.000" Z="0.128" Type="F"/>
+    <NODE ID="59" Mass="100.000" X="0.507" Y="15.000" Z="0.159" Type="F"/>
+    <NODE ID="60" Mass="100.000" X="0.758" Y="15.000" Z="0.164" Type="F"/>
+    <NODE ID="61" Mass="100.000" X="1.008" Y="15.000" Z="0.151" Type="F"/>
+    <NODE ID="62" Mass="100.000" X="1.257" Y="15.000" Z="0.126" Type="F"/>
+    <NODE ID="63" Mass="100.000" X="1.505" Y="15.000" Z="0.093" Type="F"/>
+    <NODE ID="64" Mass="100.000" X="1.754" Y="15.000" Z="0.052" Type="F"/>
+    <NODE ID="65" Mass="100.000" X="2.002" Y="15.000" Z="0.005" Type="F"/>
+    <NODE ID="66" Mass="100.000" X="2.250" Y="15.000" Z="-0.049" Type="F"/>
+    <NODE ID="67" Mass="100.000" X="2.498" Y="15.000" Z="-0.109" Type="F"/>
+    <NODE ID="68" Mass="100.000" X="2.247" Y="15.000" Z="-0.117" Type="F"/>
+    <NODE ID="69" Mass="100.000" X="1.997" Y="15.000" Z="-0.124" Type="F"/>
+    <NODE ID="70" Mass="100.000" X="1.746" Y="15.000" Z="-0.130" Type="F"/>
+    <NODE ID="71" Mass="100.000" X="1.496" Y="15.000" Z="-0.135" Type="F"/>
+    <NODE ID="72" Mass="100.000" X="1.245" Y="15.000" Z="-0.138" Type="F"/>
+    <NODE ID="73" Mass="100.000" X="0.995" Y="15.000" Z="-0.139" Type="F"/>
+    <NODE ID="74" Mass="100.000" X="0.745" Y="15.000" Z="-0.136" Type="F"/>
+    <NODE ID="75" Mass="100.000" X="0.495" Y="15.000" Z="-0.128" Type="F"/>
+    <NODE ID="76" Mass="100.000" X="0.246" Y="15.000" Z="-0.106" Type="F"/>
+    <NODE ID="114" Mass="100.000" X="0.000" Y="25.000" Z="0.000" Type="F"/>
+    <NODE ID="115" Mass="100.000" X="0.100" Y="25.000" Z="0.056" Type="F"/>
+    <NODE ID="116" Mass="100.000" X="0.200" Y="25.000" Z="0.072" Type="F"/>
+    <NODE ID="117" Mass="100.000" X="0.300" Y="25.000" Z="0.079" Type="F"/>
+    <NODE ID="118" Mass="100.000" X="0.400" Y="25.000" Z="0.078" Type="F"/>
+    <NODE ID="119" Mass="100.000" X="0.500" Y="25.000" Z="0.072" Type="F"/>
+    <NODE ID="120" Mass="100.000" X="0.600" Y="25.000" Z="0.063" Type="F"/>
+    <NODE ID="121" Mass="100.000" X="0.700" Y="25.000" Z="0.051" Type="F"/>
+    <NODE ID="122" Mass="100.000" X="0.800" Y="25.000" Z="0.037" Type="F"/>
+    <NODE ID="123" Mass="100.000" X="0.900" Y="25.000" Z="0.020" Type="F"/>
+    <NODE ID="124" Mass="100.000" X="1.000" Y="25.000" Z="0.000" Type="F"/>
+    <NODE ID="125" Mass="100.000" X="0.900" Y="25.000" Z="-0.008" Type="F"/>
+    <NODE ID="126" Mass="100.000" X="0.800" Y="25.000" Z="-0.015" Type="F"/>
+    <NODE ID="127" Mass="100.000" X="0.700" Y="25.000" Z="-0.021" Type="F"/>
+    <NODE ID="128" Mass="100.000" X="0.600" Y="25.000" Z="-0.028" Type="F"/>
+    <NODE ID="129" Mass="100.000" X="0.500" Y="25.000" Z="-0.033" Type="F"/>
+    <NODE ID="130" Mass="100.000" X="0.400" Y="25.000" Z="-0.038" Type="F"/>
+    <NODE ID="131" Mass="100.000" X="0.300" Y="25.000" Z="-0.041" Type="F"/>
+    <NODE ID="132" Mass="100.000" X="0.200" Y="25.000" Z="-0.042" Type="F"/>
+    <NODE ID="133" Mass="100.000" X="0.100" Y="25.000" Z="-0.038" Type="F"/>
+  </NODES>
+  <CONNECTIONS>
+    <CONNECTION ID="20" NodeId1="19" NodeId2="0" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="21" NodeId1="0" NodeId2="1" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="22" NodeId1="1" NodeId2="2" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="23" NodeId1="2" NodeId2="3" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="24" NodeId1="3" NodeId2="4" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="25" NodeId1="4" NodeId2="5" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="26" NodeId1="5" NodeId2="6" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="27" NodeId1="6" NodeId2="7" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="28" NodeId1="7" NodeId2="8" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="29" NodeId1="8" NodeId2="9" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="30" NodeId1="9" NodeId2="10" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="31" NodeId1="10" NodeId2="11" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="32" NodeId1="11" NodeId2="12" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="33" NodeId1="12" NodeId2="13" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="34" NodeId1="13" NodeId2="14" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="35" NodeId1="14" NodeId2="15" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="36" NodeId1="15" NodeId2="16" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="37" NodeId1="16" NodeId2="17" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="38" NodeId1="17" NodeId2="18" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="39" NodeId1="18" NodeId2="19" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="40" NodeId1="1" NodeId2="18" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="41" NodeId1="3" NodeId2="16" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="42" NodeId1="5" NodeId2="14" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="43" NodeId1="7" NodeId2="12" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="44" NodeId1="3" NodeId2="18" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="45" NodeId1="5" NodeId2="16" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="46" NodeId1="7" NodeId2="14" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="47" NodeId1="9" NodeId2="12" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="48" NodeId1="1" NodeId2="19" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="49" NodeId1="2" NodeId2="18" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="50" NodeId1="3" NodeId2="17" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="51" NodeId1="4" NodeId2="16" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="52" NodeId1="5" NodeId2="15" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="53" NodeId1="6" NodeId2="14" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="54" NodeId1="7" NodeId2="13" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="55" NodeId1="8" NodeId2="12" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="56" NodeId1="9" NodeId2="11" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="77" NodeId1="76" NodeId2="57" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="78" NodeId1="57" NodeId2="58" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="79" NodeId1="58" NodeId2="59" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="80" NodeId1="59" NodeId2="60" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="81" NodeId1="60" NodeId2="61" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="82" NodeId1="61" NodeId2="62" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="83" NodeId1="62" NodeId2="63" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="84" NodeId1="63" NodeId2="64" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="85" NodeId1="64" NodeId2="65" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="86" NodeId1="65" NodeId2="66" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="87" NodeId1="66" NodeId2="67" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="88" NodeId1="67" NodeId2="68" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="89" NodeId1="68" NodeId2="69" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="90" NodeId1="69" NodeId2="70" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="91" NodeId1="70" NodeId2="71" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="92" NodeId1="71" NodeId2="72" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="93" NodeId1="72" NodeId2="73" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="94" NodeId1="73" NodeId2="74" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="95" NodeId1="74" NodeId2="75" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="96" NodeId1="75" NodeId2="76" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="97" NodeId1="58" NodeId2="75" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="98" NodeId1="60" NodeId2="73" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="99" NodeId1="62" NodeId2="71" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="100" NodeId1="64" NodeId2="69" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="101" NodeId1="60" NodeId2="75" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="102" NodeId1="62" NodeId2="73" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="103" NodeId1="64" NodeId2="71" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="104" NodeId1="66" NodeId2="69" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="105" NodeId1="58" NodeId2="76" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="106" NodeId1="59" NodeId2="75" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="107" NodeId1="60" NodeId2="74" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="108" NodeId1="61" NodeId2="73" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="109" NodeId1="62" NodeId2="72" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="110" NodeId1="63" NodeId2="71" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="111" NodeId1="64" NodeId2="70" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="112" NodeId1="65" NodeId2="69" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="113" NodeId1="66" NodeId2="68" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="134" NodeId1="133" NodeId2="114" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="135" NodeId1="114" NodeId2="115" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="136" NodeId1="115" NodeId2="116" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="137" NodeId1="116" NodeId2="117" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="138" NodeId1="117" NodeId2="118" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="139" NodeId1="118" NodeId2="119" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="140" NodeId1="119" NodeId2="120" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="141" NodeId1="120" NodeId2="121" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="142" NodeId1="121" NodeId2="122" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="143" NodeId1="122" NodeId2="123" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="144" NodeId1="123" NodeId2="124" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="145" NodeId1="124" NodeId2="125" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="146" NodeId1="125" NodeId2="126" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="147" NodeId1="126" NodeId2="127" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="148" NodeId1="127" NodeId2="128" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="149" NodeId1="128" NodeId2="129" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="150" NodeId1="129" NodeId2="130" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="151" NodeId1="130" NodeId2="131" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="152" NodeId1="131" NodeId2="132" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="153" NodeId1="132" NodeId2="133" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="154" NodeId1="115" NodeId2="132" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="155" NodeId1="117" NodeId2="130" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="156" NodeId1="119" NodeId2="128" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="157" NodeId1="121" NodeId2="126" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="158" NodeId1="117" NodeId2="132" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="159" NodeId1="119" NodeId2="130" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="160" NodeId1="121" NodeId2="128" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="161" NodeId1="123" NodeId2="126" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="162" NodeId1="115" NodeId2="133" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="163" NodeId1="116" NodeId2="132" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="164" NodeId1="117" NodeId2="131" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="165" NodeId1="118" NodeId2="130" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="166" NodeId1="119" NodeId2="129" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="167" NodeId1="120" NodeId2="128" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="168" NodeId1="121" NodeId2="127" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="169" NodeId1="122" NodeId2="126" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="170" NodeId1="123" NodeId2="125" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="171" NodeId1="0" NodeId2="57" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="172" NodeId1="1" NodeId2="58" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="173" NodeId1="2" NodeId2="59" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="174" NodeId1="3" NodeId2="60" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="175" NodeId1="4" NodeId2="61" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="176" NodeId1="5" NodeId2="62" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="177" NodeId1="6" NodeId2="63" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="178" NodeId1="7" NodeId2="64" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="179" NodeId1="8" NodeId2="65" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="180" NodeId1="9" NodeId2="66" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="181" NodeId1="10" NodeId2="67" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="182" NodeId1="11" NodeId2="68" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="183" NodeId1="12" NodeId2="69" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="184" NodeId1="13" NodeId2="70" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="185" NodeId1="14" NodeId2="71" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="186" NodeId1="15" NodeId2="72" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="187" NodeId1="16" NodeId2="73" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="188" NodeId1="17" NodeId2="74" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="189" NodeId1="18" NodeId2="75" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="190" NodeId1="19" NodeId2="76" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="191" NodeId1="57" NodeId2="114" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="192" NodeId1="58" NodeId2="115" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="193" NodeId1="59" NodeId2="116" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="194" NodeId1="60" NodeId2="117" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="195" NodeId1="61" NodeId2="118" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="196" NodeId1="62" NodeId2="119" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="197" NodeId1="63" NodeId2="120" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="198" NodeId1="64" NodeId2="121" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="199" NodeId1="65" NodeId2="122" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="200" NodeId1="66" NodeId2="123" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="201" NodeId1="67" NodeId2="124" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="202" NodeId1="68" NodeId2="125" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="203" NodeId1="69" NodeId2="126" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="204" NodeId1="70" NodeId2="127" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="205" NodeId1="71" NodeId2="128" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="206" NodeId1="72" NodeId2="129" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="207" NodeId1="73" NodeId2="130" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="208" NodeId1="74" NodeId2="131" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="209" NodeId1="75" NodeId2="132" SpringConstant="10000.000" DampingConstant="10.000"/>
+    <CONNECTION ID="210" NodeId1="76" NodeId2="133" SpringConstant="10000.000" DampingConstant="10.000"/>
+  </CONNECTIONS>
+  <NODES>
+    <NODE ID="900" Mass="100.000" X="0.000" Y="25.000" Z="-2.000" Type="S"/>
+  </NODES>
+  <CONTROLLOOPS>
+    <CONTROLLOOP ID="1000" CommandID="3000" FeedbackID="2000" ProportionalGain="0.100" IntegralGain="0.000" DampingGain="0.000" DerivativeGain="0.000" ServovalveLoopGain="1.000" ServovalveOffset="0.000" ServovalveMaxCurrent="40.000"/>
+  </CONTROLLOOPS>
+  <ACTUATORS>
+    <ACTUATOR ID="2000" InputID="1000" NodeId1="900" NodeId2="114" BoreArea="0.102" RodArea="0.051" MaxStroke="1.000" ServovalveMaxFlow="63.000" ServovalveMaxCurrent="40.000" HydraulicPressure="210.000"/>
+  </ACTUATORS>
+  <SIGNALGENERATORS>
+    <SIGNALGENERATOR ID="3000" Amplitude="40.000" Frequency="0.100" PhaseShift="0.000" Offset="0.000" X="0.000" Y="0.000" Z="1.000"/>
+  </SIGNALGENERATORS>
+</OBJECT>

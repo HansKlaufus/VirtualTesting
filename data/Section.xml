@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OBJECT>
+<WINGS>
+<WING ID="0" NodeMass="100" SpringConstant="100" DampingConstant="100" NumberNodes="20">
+<SECTION ID="1" NACA="2412" Chord="5" TiltAngle="5" X="0" Y="0" Z="0"/>
+</WING>
+</WINGS>
+</OBJECT>
